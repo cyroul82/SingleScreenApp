@@ -17,4 +17,7 @@
     <string name="company_info">Athletism Equipments Pro and Amateur\nPolanik Exclusive distributor in France</string>
     <string name="website">Website</string>
     <string name="email">email</string>
+    <string name="invitation_title">Dynamic Athletic Invitation</string>
+    <string name="invitation_message">Keep this application on your smartphone to keep in touch with us when you need it !</string>
+    <string name="invitation_deep_link">http://www.dynamicathletic.com</string>
 </resources>
