@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dynamic Athletic</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="company_address_description">Company Address</string>
+    <string name="company_address">397 Avenue des Althéas\nLes Collines de Valescure\n83700 Saint Raphaël</string>
+    <string name="company_phone_description">Company Phone</string>
+    <string name="company_phone">04 94 83 23 00</string>
+    <string name="company_email_description">Company Email</string>
+    <string name="company_email">info@dynamicathletic.com</string>
+    <string name="company_website_description">Company Website</string>
+    <string name="company_website">www.dynamicathletic.com</string>
+    <string name="company_info_description">Company Description</string>
+    <string name="company_info">Athletism Equipments Pro and Amateur\nPolanik Exclusive distributor in France</string>
+    <string name="website">Website</string>
+    <string name="email">email</string>
+</resources>
