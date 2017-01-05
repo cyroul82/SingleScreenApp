@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "912796417298",
+    "firebase_url": "https://singlescreenapp.firebaseio.com",
+    "project_id": "singlescreenapp",
+    "storage_bucket": "singlescreenapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912796417298:android:4b55ca6df73353a8",
+        "android_client_info": {
+          "package_name": "co.shortbrain.singlescreenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912796417298-v6oj5t0lt3ohk9moqon9r47thld7bb30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.shortbrain.singlescreenapp",
+            "certificate_hash": "F522A208947CB3A67D65553331BB35F78CAA6AB9"
+          }
+        },
+        {
+          "client_id": "912796417298-cpv69lleu2e9jkti3nefq0aif47cgm0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeP1A7KriXcBPcFMhh0KsQB4BK3uKRvIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912796417298-cpv69lleu2e9jkti3nefq0aif47cgm0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
